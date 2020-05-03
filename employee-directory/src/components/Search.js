@@ -4,7 +4,7 @@ import React from "react";
 function Search(props) {
   return (
     <div>
-    <h3> Search</h3>
+    <input class="form-control" type="text" placeholder="Search" aria-label="Search"></input>
     </div>
   );
 }
