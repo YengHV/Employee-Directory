@@ -3,8 +3,8 @@ import React from "react";
 
 function Search(props) {
   return (
-    <div>
-    <input class="form-control" type="text" placeholder="Search" aria-label="Search"></input>
+    <div className = "searchBar" id ="searchDiv">
+    <input className="form-control" type="text" placeholder="Search Employee" aria-label="Search"></input>
     </div>
   );
 }
