@@ -16,9 +16,10 @@ code {
   text-align: center;
 }
 
-.searchDiv {
-  text-align: center;
-  display: block;
+.searchBar {
+  /* width: 100%; */
+  text-align:center;
+  
 }
 
 .searchBar input {
